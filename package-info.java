@@ -1,1 +1,1 @@
-package parameters_String;
+package friday_task;
