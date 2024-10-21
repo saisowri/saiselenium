@@ -1,1 +1,1 @@
-package stringReverse_Switch;
+package selenium_interviewQuestion_practice;
