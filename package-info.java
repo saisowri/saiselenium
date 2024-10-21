@@ -1,1 +1,1 @@
-package selenium_interviewQuestion_practice;
+package JavaPrograms;
